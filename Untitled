@@ -1,0 +1,1 @@
+ <td ><div class="col" id="user_data_3">	<a data-modal="#modal" class="modal__trigger" onClick="getPage(<?php echo $result[$key]["id"]; ?>);">View Profile</a></div></td>
